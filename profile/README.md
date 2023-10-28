@@ -23,7 +23,7 @@
 
 ---
 
-![Untitled](Untitled%2075abe783dd4449b49583926a62bd6073/Untitled%201.png)
+![Untitled](profile/Untitled 1.png)
 
 ![https://github.com/fnky/fnky/raw/fnky/img/smile.gif](https://github.com/fnky/fnky/raw/fnky/img/smile.gif)
 
