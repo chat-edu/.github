@@ -1,6 +1,6 @@
 # 
 
-![Untitled](Untitled%2075abe783dd4449b49583926a62bd6073/Untitled.png)
+![Untitled](https://www.chatedu.tech/logo.png)
 
 # ChatEDU
 
@@ -23,7 +23,7 @@
 
 ---
 
-![Untitled](https://www.chatedu.tech/logo.png)
+[Imgur](https://i.imgur.com/5JzHrYC.png)
 
 ![https://github.com/fnky/fnky/raw/fnky/img/smile.gif](https://github.com/fnky/fnky/raw/fnky/img/smile.gif)
 
