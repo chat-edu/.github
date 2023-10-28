@@ -23,8 +23,8 @@
 
 ---
 
-![Untitled](profile/Untitled 1.png)
+![Untitled](https://www.chatedu.tech/logo.png)
 
 ![https://github.com/fnky/fnky/raw/fnky/img/smile.gif](https://github.com/fnky/fnky/raw/fnky/img/smile.gif)
 
-![Untitled](Untitled%2075abe783dd4449b49583926a62bd6073/Untitled%202.png)
+[Imgur](https://i.imgur.com/itHCqAf.png)
