@@ -13,19 +13,19 @@ Through our collaboration with [Vanderbilt’s Initiative on the Future of Learn
 
 We aim to create the first viral higher education product since Quizlet and Chegg. As college students, we witnessed the transformative impact of ChatGPT on our peers and were inspired to create deeply personalized educational tools. Our multidisciplinary engineering backgrounds and direct insights into student pain points equip us to tackle the $5 billion edtech market.
 
-![json](./json)
+![json](./json.jpeg)
 [Jason Hedman](https://www.linkedin.com/in/jason-hedman/)
 CS + Math
 
-![jp](./jp)
+![jp](./jp.jpeg)
 [JP Higgins](https://www.linkedin.com/in/jp-higgins/)
 CS + HOD
 
-![vasco](./sco)
+![vasco](./sco.jpeg)
 [Vasco Singh](https://www.linkedin.com/in/vasco-singh-447539167/)
 CS + Math
 
-![jake](./jake)
+![jake](./jake.jpeg)
 [Jake Underwood](https://www.linkedin.com/in/jake-underwood-1646a418a/)
 Engineering Management + CS
 
