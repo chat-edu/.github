@@ -1,3 +1,4 @@
+![Logo](./.github/profile/logo.png)
 # Overview
 
 [ChatEDU](https://www.chatedu.io/) is an edtech startup leveraging generative AI to create personalized learning tools for college students. Over the last nine months, we've developed three products that have **won five hackathons, earned funding and mentorship from Microsoft, and attracted a team of senior advisors.**
