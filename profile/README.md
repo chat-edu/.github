@@ -13,23 +13,19 @@ Through our collaboration with [Vanderbilt’s Initiative on the Future of Learn
 
 We aim to create the first viral higher education product since Quizlet and Chegg. As college students, we witnessed the transformative impact of ChatGPT on our peers and were inspired to create deeply personalized educational tools. Our multidisciplinary engineering backgrounds and direct insights into student pain points equip us to tackle the $5 billion edtech market.
 
-https://media.licdn.com/dms/image/C5603AQGR5D0sMOD69g/profile-displayphoto-shrink_800_800/0/1651507633541?e=1721865600&v=beta&t=L-rm4YqIBCz8qjsQUZ63mfaZwx6ULMiJS9dKimAY2h0
-
+![json](./json)
 [Jason Hedman](https://www.linkedin.com/in/jason-hedman/)
 CS + Math
 
-https://media.licdn.com/dms/image/C4D03AQE1nNQk1a6GwQ/profile-displayphoto-shrink_800_800/0/1646262226633?e=1721865600&v=beta&t=3W-9RSOn41PBK3FJOCXdLszNKuf1KUgMCcprqsBPHb8
-
+![jp](./jp)
 [JP Higgins](https://www.linkedin.com/in/jp-higgins/)
 CS + HOD
 
-https://media.licdn.com/dms/image/C5603AQEeYqky4Q6PHQ/profile-displayphoto-shrink_800_800/0/1615569294537?e=1721865600&v=beta&t=DCYq3QO3ZoG98IbsIDHtDVGaUBU4WXKRnlwRSpoJhM4
-
+![vasco](./sco)
 [Vasco Singh](https://www.linkedin.com/in/vasco-singh-447539167/)
 CS + Math
 
-https://media.licdn.com/dms/image/C4D03AQGUlAR5IN8ROg/profile-displayphoto-shrink_800_800/0/1641426561734?e=1721865600&v=beta&t=Atl5n2dSAOeJsaxzjSiN8cEUBUn26rf6KmjeUQC1ZwE
-
+![jake](./jake)
 [Jake Underwood](https://www.linkedin.com/in/jake-underwood-1646a418a/)
 Engineering Management + CS
 
