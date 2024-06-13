@@ -1,4 +1,5 @@
-![Logo](./logo.png)
+<img src="./logo.png" alt="Logo" width="200" height="200"/>
+
 # Overview
 
 [ChatEDU](https://www.chatedu.io/) is an edtech startup leveraging generative AI to create personalized learning tools for college students. Over the last nine months, we've developed three products that have **won five hackathons, earned funding and mentorship from Microsoft, and attracted a team of senior advisors.**
@@ -13,21 +14,45 @@ Through our collaboration with [Vanderbilt’s Initiative on the Future of Learn
 
 We aim to create the first viral higher education product since Quizlet and Chegg. As college students, we witnessed the transformative impact of ChatGPT on our peers and were inspired to create deeply personalized educational tools. Our multidisciplinary engineering backgrounds and direct insights into student pain points equip us to tackle the $5 billion edtech market.
 
-![json](./json.jpeg)
-[Jason Hedman](https://www.linkedin.com/in/jason-hedman/)
-CS + Math
+<div style="display: flex; justify-content: center;">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./json.jpeg" alt="Jason Hedman" width="150"/><br/>
+        <b>Jason Hedman</b><br/>
+        <sub>CS + Math</sub><br/>
+        <a href="https://www.linkedin.com/in/jason-hedman/">
+          <img src="./linkedin.png" alt="LinkedIn" width="20" style="margin-top: 5px;"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="./jp.jpeg" alt="JP Higgins" width="150"/><br/>
+        <b>JP Higgins</b><br/>
+        <sub>CS + HOD</sub><br/>
+        <a href="https://www.linkedin.com/in/jp-higgins/">
+          <img src="./linkedin.png" alt="LinkedIn" width="20" style="margin-top: 5px;"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="./sco.jpeg" alt="Vasco Singh" width="150"/><br/>
+        <b>Vasco Singh</b><br/>
+        <sub>CS + Math</sub><br/>
+        <a href="https://www.linkedin.com/in/vasco-singh-447539167/">
+          <img src="./linkedin.png" alt="LinkedIn" width="20" style="margin-top: 5px;"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="./jake.jpeg" alt="Jake Underwood" width="150"/><br/>
+        <b>Jake Underwood</b><br/>
+        <sub>Engineering Management + CS</sub><br/>
+        <a href="https://www.linkedin.com/in/jake-underwood-1646a418a/">
+          <img src="./linkedin.png" alt="LinkedIn" width="20" style="margin-top: 5px;"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-![jp](./jp.jpeg)
-[JP Higgins](https://www.linkedin.com/in/jp-higgins/)
-CS + HOD
-
-![vasco](./sco.jpeg)
-[Vasco Singh](https://www.linkedin.com/in/vasco-singh-447539167/)
-CS + Math
-
-![jake](./jake.jpeg)
-[Jake Underwood](https://www.linkedin.com/in/jake-underwood-1646a418a/)
-Engineering Management + CS
 
 ## Advisors
 
