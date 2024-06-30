@@ -53,20 +53,6 @@ We aim to create the first viral higher education product since Quizlet and Cheg
   </table>
 </div>
 
-
-## Advisors
-
-Our senior advisors guide several key aspects of our business, including pedagogy, go-to-market strategies, fundraising, and intellectual property.
-
-**Joe Liemandt**
-*Founder and CEO of Trilogy Software, 2hr Learning*
-
-**Jesse Spencer-Smith**
-*Chief Data Scientist at Vanderbilt*
-
-**Mitchell Zuklie**
-*Chairman and CEO of Orrick*
-
 # Progress and Traction
 
 During our last year at Vanderbilt, we built three edtech products, incorporated feedback from 50 student users across six universities, and won five hackathons. Powered by this success, we are now pursuing ChatEDU full-time.
